@@ -1,4 +1,4 @@
-FROM tezos/tezos:zeronet_f4f7b118_20190403180932
+FROM tezos/tezos:zeronet_1967e40d_20190508041905
 
 # Install AWS CLI
 
